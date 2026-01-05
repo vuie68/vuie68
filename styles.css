@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+}
+
+.text {
+   margin: 0;
+   display: flex;
+   justify-content: center;
+}
+
+.buttons {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    color: white;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 2px solid white;
+    padding:10px;
+    background-image: linear-gradient(#aab004, #c1c400);
+}
+
+.button {
+    padding-left: 16px;
+}
+
+.button a {
+    text-decoration: underline;
+    color: white;
+}
+
+h1, h2, p {
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.2);
+    font-family: Arial, sans-serif;
+}
+
+.img {
+   margin: 0;
+   display: flex;
+   justify-content: center;
+}
